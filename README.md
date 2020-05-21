@@ -1,19 +1,18 @@
 ## Micro-service based Framework Developed under PHP 7.3+
 
-##### list:
+### list:
 
-###### <pre> Features list </pre>
-###### <pre> when and why should select </pre>
-###### <pre> Basic API config </pre>
-###### <pre> Template Tree </pre>
-###### <pre> Full API config </pre>
-###### <pre> Sample API development </pre>
-###### <pre> Configuration Details </pre>
-###### <pre> Versioning and It's benefits explained </pre>
-###### <pre> Complete Docs </pre>
+#### Features list 
+#### when and why should select 
+#### Basic API config 
+#### Template Tree 
+#### Full API config 
+#### Sample API development 
+#### Configuration Details 
+#### Versioning and It's benefits explained 
+#### Documents
 
-
-
+<br /><br />
 
 
 ### Feature:
@@ -28,6 +27,8 @@
 #### Readily available sub-modules as plugins
 
 security - WIP
+<br /><br />
+
 ### Basic API:
 <pre>
 {
@@ -88,7 +89,7 @@ security - WIP
 }
 
 </pre>
-
+<br /><br />
 ### Template Tree:
 <pre>
 rock
@@ -167,6 +168,7 @@ rock
     └── Template
 
 </pre>
+<br /><br />
 ### Full API - Example Config File Per MicroService:
 <pre>
 {
